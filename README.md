@@ -8,3 +8,4 @@ Edit existing tasks
 Delete tasks
 Real-time dynamic updates using EJS
 Technologies used: Node.js, Express, PostgreSQL, EJS.
+![Screenshot 2024-12-11 011314](https://github.com/user-attachments/assets/7d6866e0-808a-46a3-8234-366bedb1cf8c)
